@@ -1,11 +1,12 @@
-package osucascades.cs492.fixme;
+package edu.osucascades.cs492.fixme;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.Toast;
 
-public class Mainactivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
     private Button mFalseButton;
 
